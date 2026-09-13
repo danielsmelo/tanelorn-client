@@ -1,6 +1,6 @@
 # Tanelorn OT — Cliente
 
-**Versão atual:** v2026.09.02-2
+**Versão atual:** v2026.09.12
 
 ## Download
 
